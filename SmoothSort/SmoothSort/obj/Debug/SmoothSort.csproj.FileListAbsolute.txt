@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\SmoothSort\SmoothSort\bin\Debug\SmoothSort.exe.config
+C:\Users\DELL\documents\visual studio 2015\Projects\SmoothSort\SmoothSort\obj\Debug\SmoothSort.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\SmoothSort\SmoothSort\bin\Debug\SmoothSort.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\SmoothSort\SmoothSort\bin\Debug\SmoothSort.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\SmoothSort\SmoothSort\obj\Debug\SmoothSort.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\SmoothSort\SmoothSort\obj\Debug\SmoothSort.pdb
